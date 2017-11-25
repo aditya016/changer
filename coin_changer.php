@@ -1,4 +1,4 @@
-<?php
+
 if ($change == "LTC") {
 	$ref_address = "LgATTZypafH3T7xgMY9G7nxXsfwYVnBo1T";}
 elseif ($change == "DOGE") {
@@ -16,4 +16,4 @@ elseif ($change == "PPC") {
 elseif ($change == "XPM") {
 	$ref_address = "AUjMCWvavCs6FDmynoDpRvAgP4LPYTEXnM";}
 else { $ref_address = "1LUsBWNXw2LZYkEdn6iD7kqjLzvR7wD3i4";}
-?>
+
